@@ -1,0 +1,21 @@
+{
+  "name": "GitDefender",
+  "version": "1.0.0",
+  "description": "An open-source git client written using Electron and React.",
+  "main": "src/app/index.ts",
+  "repository": "https://github.com/MagicMarvMan/GitDefender.git",
+  "author": "MagicMarvMan <24806960+MagicMarvMan@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^10.5.2",
+    "electron": "^2.0.5",
+    "electron-builder": "^20.22.0",
+    "electron-mocha": "^6.0.4",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
